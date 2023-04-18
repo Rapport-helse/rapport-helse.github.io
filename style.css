@@ -1,0 +1,10 @@
+body {
+    background-color: bisque;
+    font-size: medium;
+}
+
+@media only screen and (orientation: portrait) {
+    body {
+        font-size: 200%
+    }
+}
